@@ -1,0 +1,27 @@
+{
+  "version": "2.3.0",
+  "summary": {
+    "title": "Alur Ancaman Kerentanan",
+    "owner": "kel.9",
+    "description": "high risk path traversal ",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 2,
+        "title": "1",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.3.0",
+        "cells": [],
+        "description": "2"
+      }
+    ],
+    "diagramTop": 4,
+    "reviewer": "kel.9",
+    "threatTop": 0
+  }
+}
